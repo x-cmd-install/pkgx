@@ -1,29 +1,31 @@
 about:
-  description: Run Anything
+  description:
+  |
+    Run Anything
   license: Apache-2.0
   homepage: https://pkgx.sh
   head: 6de1d7e
   archived: false
   latestVersion: v2.11.0
-  collectedAt: 2026-09-04T04:20:44Z
+  collectedAt: 2026-09-04T19:28:11Z
 timeline:
   created: 2021-11-20
   lastCommit: 2026-08-26
   lastRelease: 2026-07-22
 popularity:
-  star: 9912
+  star: 9914
   watcher: 79
   fork: 1390
   release: 235
   contributor: 64
-  pullRequest: 98
+  pullRequest: 557
   issue: 464
 language:
   Rust: 101057
   Python: 1781
   Shell: 1608
   Slim: 653
-totalLine: 105099
+totalBytes: 105099
 recent:
   last30d:
     since: 2026-08-05
@@ -33,6 +35,14 @@ recent:
     closedIssue: 0
     openIssue: 0
     commit: 2
+  last60d:
+    since: 2026-07-06
+    release: 2
+    mergedPR: 7
+    openPR: 1
+    closedIssue: 0
+    openIssue: 1
+    commit: 6
   last90d:
     since: 2026-06-06
     release: 2
@@ -57,3 +67,21 @@ recent:
     closedIssue: 4
     openIssue: 8
     commit: 72
+  last720d:
+    since: 2024-09-14
+    release: 30
+    mergedPR: 126
+    openPR: 1
+    closedIssue: 39
+    openIssue: 22
+    commit: 302
+total:
+  release: 235
+  mergedPR: 459
+  openPR: 1
+  closedIssue: 433
+  openIssue: 31
+  commit: 1324
+---
+---
+
