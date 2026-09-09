@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.11.0"
   latestRelease: "v2.11.0"
   latestPrerelease: "v1.0.0-alpha.4"
-  collectedAt: 2026-09-09T04:38:32Z
+  collectedAt: 2026-09-09T18:46:49Z
 timeline:
   created: 2021-11-20
   lastCommit: 2026-08-26
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-07-22
   lastPrerelease: 2023-09-17
 popularity:
-  star: 9916
+  star: 9915
   watcher: 80
-  fork: 1390
+  fork: 1389
   release: 235
   contributor: 64
   pullRequest: 558
@@ -86,7 +86,7 @@ total:
   commit: 1324
 ---
 path: /home/runner/.x-repo/github.com/pkgxdev/pkgx
-collectedAt: 2026-09-09T04:38:33Z
+collectedAt: 2026-09-09T18:46:50Z
 loc:
   Rust:
     code: 2816
