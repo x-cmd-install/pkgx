@@ -1,24 +1,65 @@
 # pkgx
 
+[中文版本](./README.cn.md)
+
 Run Anything
 
-- **Upstream**: <https://github.com/pkgxdev/pkgx>
-- **Homepage**: <https://pkgx.sh>
-- **Latest release**: `v2.11.0` (2026-07-22)
-- **Last commit**: 2026-08-26
-- **License**: Apache-2.0
-- **Stars**: 9915 · **Forks**: 1389 · **Open issues**: 464 · **Contributors**: 64
+![pkgx](https://repo.x-cmd.io/pkgx.svg)
 
-## Installation
+## Install
 
 ```sh
 x install pkgx
 ```
 
-See <https://x-cmd.com/install/pkgx> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/pkgxdev/pkgx>
+- **Homepage**: <https://pkgx.sh>
+- **License**: Apache-2.0
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T18:46:54Z._
+- **Latest**: `v2.11.0` (2026-07-22)
+- **Last commit**: 2026-08-26
+- **Assets in release**: 14
+- **Published**: 2026-07-22T20:34:05Z
+
+## Popularity
+
+- **Stars**: 9,915 · **Forks**: 1,389 · **Open issues**: 464 · **Contributors**: 64
+
+## Totals (cumulative)
+
+- **Releases**: 235 · **Merged PRs**: 459 · **Open PRs**: 1 · **Closed issues**: 433 · **Open issues**: 31 · **Commits**: 1324
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 0 | 1 |
+| 90d | 2026-06-12 | 2 | 9 | 1 | 0 | 1 | 8 |
+| 360d | 2025-09-15 | 8 | 54 | 1 | 3 | 8 | 72 |
+
+## Code size
+
+Total: **2,983** lines of code across **38** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,816 | 99 | 392 | 32 |
+| Toml | 69 | 2 | 8 | 3 |
+| Sh | 49 | 2 | 15 | 1 |
+| Python | 43 | 5 | 9 | 1 |
+| Yaml | 6 | 13 | 0 | 1 |
+
+## Improve this data
+
+Install metadata for pkgx lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `pkgx` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/pkgx.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:52:19Z._
