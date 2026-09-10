@@ -12,6 +12,18 @@ Run Anything
 x install pkgx
 ```
 
+## Code insight
+
+Total: **2,983** lines of code across **38** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 2,816 | 99 | 392 | 32 |
+| Toml | 69 | 2 | 8 | 3 |
+| Sh | 49 | 2 | 15 | 1 |
+| Python | 43 | 5 | 9 | 1 |
+| Yaml | 6 | 13 | 0 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/pkgxdev/pkgx>
@@ -23,6 +35,25 @@ x install pkgx
 - **Latest**: `v2.11.0` (2026-07-22)
 - **Last commit**: 2026-08-26
 - **Assets in release**: 14
+
+## Popularity
+
+- **Stars**: 9,915 · **Forks**: 1,389 · **Open issues**: 464 · **Contributors**: 64
+
+## Totals (cumulative)
+
+- **Releases**: 235 · **Merged PRs**: 459 · **Open PRs**: 1 · **Closed issues**: 433 · **Open issues**: 31 · **Commits**: 1324
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 0 | 1 |
+| last60d | 2026-07-12 | 1 | 6 | 1 | 0 | 0 | 6 |
+| 90d | 2026-06-12 | 2 | 9 | 1 | 0 | 1 | 8 |
+| last180d | 2026-03-14 | 6 | 25 | 1 | 0 | 3 | 25 |
+| 360d | 2025-09-15 | 8 | 54 | 1 | 3 | 8 | 72 |
+| last720d | 2024-09-20 | 29 | 126 | 1 | 38 | 22 | 301 |
 
 ## Release assets
 
@@ -43,33 +74,13 @@ x install pkgx
 | [pkgx-2.11.0+windows+x86-64.zip](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+windows+x86-64.zip) | 4.3 MiB | `native/win/x64` |
 | [pkgx-2.11.0.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0.tar.xz) | 176.7 KiB | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 9,914 · **Forks**: 1,389 · **Open issues**: 464 · **Contributors**: 64
+Reported by **5** distros on [repology.org](https://repology.org/project/pkgx). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 235 · **Merged PRs**: 459 · **Open PRs**: 1 · **Closed issues**: 433 · **Open issues**: 31 · **Commits**: 1324
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 1 | 1 | 0 | 0 | 1 |
-| 90d | 2026-06-12 | 2 | 9 | 1 | 0 | 1 | 8 |
-| 360d | 2025-09-15 | 8 | 54 | 1 | 3 | 8 | 72 |
-
-## Code size
-
-Total: **2,983** lines of code across **38** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Rust | 2,816 | 99 | 392 | 32 |
-| Toml | 69 | 2 | 8 | 3 |
-| Sh | 49 | 2 | 15 | 1 |
-| Python | 43 | 5 | 9 | 1 |
-| Yaml | 6 | 13 | 0 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `2.11` | ✅ latest |
 
 ## Improve this data
 
@@ -80,4 +91,4 @@ Install metadata for pkgx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:15:15Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:13:19Z._
