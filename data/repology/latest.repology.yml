@@ -1,0 +1,50 @@
+- repo: aur
+  srcname: pkgx
+  binname: pkgx
+  visiblename: pkgx
+  version: 2.10.3
+  origversion: 2.10.3-2
+  status: outdated
+  summary: Run Anything
+  maintainers:
+    - auerhuhn@aur
+  licenses:
+    - Apache-2.0
+- repo: aur
+  srcname: pkgx-bin
+  binname: pkgx-bin
+  visiblename: pkgx-bin
+  version: 2.11.0
+  origversion: 2.11.0-1
+  status: newest
+  summary: Run Anything
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: pkgx-git
+  binname: pkgx-git
+  visiblename: pkgx-git
+  version: 1.1.6.996.ga0da42e
+  origversion: 1.1.6.996.ga0da42e-4
+  status: rolling
+  summary: the last thing you’ll install
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - Apache-2.0
+- repo: homebrew
+  srcname: pkgx
+  visiblename: pkgx
+  version: "2.11"
+  origversion: null
+  status: newest
+  summary: Standalone binary that can run anything
+- repo: homebrew
+  srcname: pkgx
+  visiblename: pkgx
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Standalone binary that can run anything
