@@ -4,7 +4,7 @@
 
 Run Anything
 
-![pkgx](https://repo.x-cmd.io/pkgx.svg)
+![pkgx](https://repo.x-cmd.io/pkgx.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,29 @@ x install pkgx
 - **最新版本**: `v2.11.0` (2026-07-22)
 - **最近提交**: 2026-08-26
 - **Release 含资产**: 14 个
-- **发布时间**: 2026-07-22T20:34:05Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [pkgx-2.11.0+darwin+aarch64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+aarch64.tar.gz) | 3.1 MiB | `native/darwin/arm64` |
+| [pkgx-2.11.0+darwin+aarch64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+aarch64.tar.xz) | 2.1 MiB | `native/darwin/arm64` |
+| [pkgx-2.11.0+darwin+aarch64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+aarch64.tar.xz.asc) | 833 B | `native/darwin/arm64` |
+| [pkgx-2.11.0+darwin+x86-64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+x86-64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [pkgx-2.11.0+darwin+x86-64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+x86-64.tar.xz) | 2.5 MiB | `native/darwin/x64` |
+| [pkgx-2.11.0+darwin+x86-64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+x86-64.tar.xz.asc) | 833 B | `native/darwin/x64` |
+| [pkgx-2.11.0+linux+aarch64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+aarch64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [pkgx-2.11.0+linux+aarch64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+aarch64.tar.xz) | 2.9 MiB | `native/linux/arm64` |
+| [pkgx-2.11.0+linux+aarch64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+aarch64.tar.xz.asc) | 833 B | `native/linux/arm64` |
+| [pkgx-2.11.0+linux+x86-64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+x86-64.tar.gz) | 4.3 MiB | `native/unknown` |
+| [pkgx-2.11.0+linux+x86-64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+x86-64.tar.xz) | 3.2 MiB | `other` |
+| [pkgx-2.11.0+linux+x86-64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+x86-64.tar.xz.asc) | 833 B | `other` |
+| [pkgx-2.11.0+windows+x86-64.zip](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+windows+x86-64.zip) | 4.3 MiB | `native/win/x64` |
+| [pkgx-2.11.0.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0.tar.xz) | 176.7 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 9,915 · **Fork**: 1,389 · **开放 issue**: 464 · **贡献者**: 64
+- **Star**: 9,914 · **Fork**: 1,389 · **开放 issue**: 464 · **贡献者**: 64
 
 ## 累计统计
 
@@ -62,4 +80,4 @@ pkgx 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:52:19Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:15:15Z._
