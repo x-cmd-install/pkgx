@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 3284222,
       "digest": "sha256:411c013e2a9a2ad45a4cd2487e8e61fe96bd03129405d647201c5bb991242ac4",
-      "download_count": 153,
+      "download_count": 154,
       "created_at": "2026-07-22T20:20:42Z",
       "updated_at": "2026-07-22T20:20:43Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0%2Bdarwin%2Baarch64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3626366,
       "digest": "sha256:bff567fc907cde0a68c20533e7e01d1a6b971f10f019be9a7622483df1d58641",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-07-22T20:19:31Z",
       "updated_at": "2026-07-22T20:19:31Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0%2Bdarwin%2Bx86-64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 2603480,
       "digest": "sha256:ccd6aa0753440963ed95f88066a70b4ec4d52a9e4ea8d470e4c9404062fb129d",
-      "download_count": 27,
+      "download_count": 28,
       "created_at": "2026-07-22T20:19:31Z",
       "updated_at": "2026-07-22T20:19:31Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0%2Bdarwin%2Bx86-64.tar.xz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 3317548,
       "digest": "sha256:79bc4e6dda4b28a0ba3d1d3de6df3fd07f4634c89911cbe80f36cb8c6ddf5b55",
-      "download_count": 842,
+      "download_count": 849,
       "created_at": "2026-07-22T20:20:29Z",
       "updated_at": "2026-07-22T20:20:29Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0%2Blinux%2Bx86-64.tar.xz"
