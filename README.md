@@ -33,27 +33,27 @@ Total: **2,983** lines of code across **38** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v2.11.0` (2026-07-22)
-- **Last commit**: 2026-10-31
+- **Last commit**: 2026-11-02
 - **Assets in release**: 14
 
 ## Popularity
 
-- **Stars**: 9,928 · **Forks**: 1,391 · **Open issues**: 466 · **Contributors**: 65
+- **Stars**: 9,929 · **Forks**: 1,391 · **Open issues**: 466 · **Contributors**: 65
 
 ## Totals (cumulative)
 
-- **Releases**: 235 · **Merged PRs**: 462 · **Open PRs**: 0 · **Closed issues**: 434 · **Open issues**: 32 · **Commits**: 1330
+- **Releases**: 235 · **Merged PRs**: 463 · **Open PRs**: 0 · **Closed issues**: 434 · **Open issues**: 32 · **Commits**: 1332
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 3 | 0 | 1 | 1 | 3 |
-| last60d | 2026-09-03 | 0 | 3 | 0 | 1 | 1 | 3 |
-| 90d | 2026-08-04 | 0 | 5 | 0 | 1 | 1 | 5 |
-| last180d | 2026-05-06 | 2 | 13 | 0 | 1 | 3 | 12 |
-| 360d | 2025-11-07 | 8 | 54 | 0 | 2 | 7 | 72 |
-| last720d | 2024-11-12 | 28 | 127 | 0 | 36 | 22 | 303 |
+| 30d | 2026-10-04 | 0 | 4 | 0 | 1 | 1 | 4 |
+| last60d | 2026-09-04 | 0 | 4 | 0 | 1 | 1 | 4 |
+| 90d | 2026-08-05 | 0 | 6 | 0 | 1 | 1 | 6 |
+| last180d | 2026-05-07 | 2 | 14 | 0 | 1 | 2 | 13 |
+| 360d | 2025-11-08 | 8 | 55 | 0 | 2 | 7 | 73 |
+| last720d | 2024-11-13 | 28 | 128 | 0 | 36 | 22 | 305 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for pkgx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:56:25Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:40:22Z._
