@@ -38,7 +38,7 @@ Total: **2,983** lines of code across **38** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,935 · **Forks**: 1,389 · **Open issues**: 466 · **Contributors**: 64
+- **Stars**: 9,934 · **Forks**: 1,389 · **Open issues**: 466 · **Contributors**: 64
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **2,983** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-16 | 0 | 3 | 1 | 1 | 1 | 3 |
-| 90d | 2026-08-17 | 0 | 4 | 1 | 1 | 1 | 4 |
-| last180d | 2026-05-19 | 2 | 13 | 1 | 1 | 2 | 12 |
-| 360d | 2025-11-20 | 8 | 53 | 1 | 2 | 6 | 70 |
-| last720d | 2024-11-25 | 26 | 126 | 1 | 35 | 22 | 304 |
+| 30d | 2026-10-17 | 0 | 2 | 1 | 0 | 0 | 2 |
+| last60d | 2026-09-17 | 0 | 3 | 1 | 1 | 1 | 3 |
+| 90d | 2026-08-18 | 0 | 4 | 1 | 1 | 1 | 4 |
+| last180d | 2026-05-20 | 2 | 13 | 1 | 1 | 2 | 12 |
+| 360d | 2025-11-21 | 8 | 53 | 1 | 2 | 6 | 69 |
+| last720d | 2024-11-26 | 26 | 126 | 1 | 35 | 22 | 304 |
 
 ## Release assets
 
@@ -91,4 +91,4 @@ Install metadata for pkgx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T06:24:29Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T06:17:13Z._
