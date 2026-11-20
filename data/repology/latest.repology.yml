@@ -4,7 +4,7 @@
   visiblename: pkgx
   version: 2.11.0
   origversion: 2.11.0-1
-  status: newest
+  status: outdated
   summary: Run Anything
   maintainers:
     - auerhuhn@aur
@@ -16,7 +16,7 @@
   visiblename: pkgx-bin
   version: 2.11.0
   origversion: 2.11.0-1
-  status: newest
+  status: outdated
   summary: Run Anything
   maintainers:
     - dominiquini@aur
@@ -37,7 +37,7 @@
 - repo: homebrew
   srcname: pkgx
   visiblename: pkgx
-  version: "2.11"
+  version: 2.11.1
   origversion: null
   status: newest
   summary: Standalone binary that can run anything
