@@ -32,55 +32,61 @@ Total: **2,983** lines of code across **38** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v2.11.0` (2026-07-22)
-- **Last commit**: 2026-11-02
-- **Assets in release**: 14
+- **Latest**: `v2.11.1` (2026-11-20)
+- **Last commit**: 2026-11-19
+- **Assets in release**: 20
 
 ## Popularity
 
-- **Stars**: 9,933 · **Forks**: 1,389 · **Open issues**: 466 · **Contributors**: 64
+- **Stars**: 9,934 · **Forks**: 1,389 · **Open issues**: 467 · **Contributors**: 64
 
 ## Totals (cumulative)
 
-- **Releases**: 235 · **Merged PRs**: 462 · **Open PRs**: 1 · **Closed issues**: 434 · **Open issues**: 32 · **Commits**: 1332
+- **Releases**: 236 · **Merged PRs**: 467 · **Open PRs**: 0 · **Closed issues**: 434 · **Open issues**: 33 · **Commits**: 1345
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-20 | 0 | 2 | 1 | 0 | 0 | 2 |
-| last60d | 2026-09-20 | 0 | 3 | 1 | 1 | 1 | 3 |
-| 90d | 2026-08-21 | 0 | 4 | 1 | 1 | 1 | 4 |
-| last180d | 2026-05-23 | 2 | 13 | 1 | 1 | 2 | 12 |
-| 360d | 2025-11-24 | 8 | 52 | 1 | 2 | 6 | 69 |
-| last720d | 2024-11-29 | 26 | 126 | 1 | 35 | 22 | 304 |
+| 30d | 2026-10-21 | 1 | 7 | 0 | 0 | 1 | 10 |
+| last60d | 2026-09-21 | 1 | 8 | 0 | 1 | 2 | 11 |
+| 90d | 2026-08-22 | 1 | 9 | 0 | 1 | 2 | 12 |
+| last180d | 2026-05-24 | 3 | 18 | 0 | 1 | 3 | 20 |
+| 360d | 2025-11-25 | 9 | 57 | 0 | 2 | 7 | 77 |
+| last720d | 2024-11-30 | 27 | 131 | 0 | 35 | 23 | 317 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [pkgx-2.11.0+darwin+aarch64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+aarch64.tar.gz) | 3.1 MiB | `native/darwin/arm64` |
-| [pkgx-2.11.0+darwin+aarch64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+aarch64.tar.xz) | 2.1 MiB | `native/darwin/arm64` |
-| [pkgx-2.11.0+darwin+aarch64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+aarch64.tar.xz.asc) | 833 B | `native/darwin/arm64` |
-| [pkgx-2.11.0+darwin+x86-64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+x86-64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
-| [pkgx-2.11.0+darwin+x86-64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+x86-64.tar.xz) | 2.5 MiB | `native/darwin/x64` |
-| [pkgx-2.11.0+darwin+x86-64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+darwin+x86-64.tar.xz.asc) | 833 B | `native/darwin/x64` |
-| [pkgx-2.11.0+linux+aarch64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+aarch64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [pkgx-2.11.0+linux+aarch64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+aarch64.tar.xz) | 2.9 MiB | `native/linux/arm64` |
-| [pkgx-2.11.0+linux+aarch64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+aarch64.tar.xz.asc) | 833 B | `native/linux/arm64` |
-| [pkgx-2.11.0+linux+x86-64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+x86-64.tar.gz) | 4.3 MiB | `native/unknown` |
-| [pkgx-2.11.0+linux+x86-64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+x86-64.tar.xz) | 3.2 MiB | `other` |
-| [pkgx-2.11.0+linux+x86-64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+linux+x86-64.tar.xz.asc) | 833 B | `other` |
-| [pkgx-2.11.0+windows+x86-64.zip](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0+windows+x86-64.zip) | 4.3 MiB | `native/win/x64` |
-| [pkgx-2.11.0.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.0/pkgx-2.11.0.tar.xz) | 176.7 KiB | `other` |
+| [pkgx-2.11.1+darwin+aarch64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+darwin+aarch64.tar.gz) | 3.1 MiB | `native/darwin/arm64` |
+| [pkgx-2.11.1+darwin+aarch64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+darwin+aarch64.tar.xz) | 2.1 MiB | `native/darwin/arm64` |
+| [pkgx-2.11.1+darwin+aarch64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+darwin+aarch64.tar.xz.asc) | 833 B | `native/darwin/arm64` |
+| [pkgx-2.11.1+darwin+x86-64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+darwin+x86-64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
+| [pkgx-2.11.1+darwin+x86-64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+darwin+x86-64.tar.xz) | 2.5 MiB | `native/darwin/x64` |
+| [pkgx-2.11.1+darwin+x86-64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+darwin+x86-64.tar.xz.asc) | 833 B | `native/darwin/x64` |
+| [pkgx-2.11.1+linux+aarch64-musl.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+aarch64-musl.tar.gz) | 4.2 MiB | `native/linux/arm64/musl` |
+| [pkgx-2.11.1+linux+aarch64-musl.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+aarch64-musl.tar.xz) | 2.9 MiB | `native/linux/arm64/musl` |
+| [pkgx-2.11.1+linux+aarch64-musl.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+aarch64-musl.tar.xz.asc) | 833 B | `native/linux/arm64/musl` |
+| [pkgx-2.11.1+linux+aarch64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+aarch64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
+| [pkgx-2.11.1+linux+aarch64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+aarch64.tar.xz) | 2.9 MiB | `native/linux/arm64` |
+| [pkgx-2.11.1+linux+aarch64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+aarch64.tar.xz.asc) | 833 B | `native/linux/arm64` |
+| [pkgx-2.11.1+linux+x86-64-musl.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+x86-64-musl.tar.gz) | 4.7 MiB | `native/unknown` |
+| [pkgx-2.11.1+linux+x86-64-musl.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+x86-64-musl.tar.xz) | 3.5 MiB | `other` |
+| [pkgx-2.11.1+linux+x86-64-musl.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+x86-64-musl.tar.xz.asc) | 833 B | `other` |
+| [pkgx-2.11.1+linux+x86-64.tar.gz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+x86-64.tar.gz) | 4.3 MiB | `native/unknown` |
+| [pkgx-2.11.1+linux+x86-64.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+x86-64.tar.xz) | 3.2 MiB | `other` |
+| [pkgx-2.11.1+linux+x86-64.tar.xz.asc](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+linux+x86-64.tar.xz.asc) | 833 B | `other` |
+| [pkgx-2.11.1+windows+x86-64.zip](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1+windows+x86-64.zip) | 4.3 MiB | `native/win/x64` |
+| [pkgx-2.11.1.tar.xz](https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1.tar.xz) | 177.4 KiB | `other` |
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/pkgx). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/pkgx). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `2.11` | ✅ latest |
+| Homebrew | `2.11.1` | ✅ latest |
 
 ## Improve this data
 
@@ -91,4 +97,4 @@ Install metadata for pkgx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261119.yml` · 2026-11-19T07:23:35Z._
+_Snapshot: `data/card/261120.yml` · 2026-11-20T09:29:01Z._
