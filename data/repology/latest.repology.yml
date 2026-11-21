@@ -14,9 +14,9 @@
   srcname: pkgx-bin
   binname: pkgx-bin
   visiblename: pkgx-bin
-  version: 2.11.0
-  origversion: 2.11.0-1
-  status: outdated
+  version: 2.11.1
+  origversion: 2.11.1-1
+  status: newest
   summary: Run Anything
   maintainers:
     - dominiquini@aur
