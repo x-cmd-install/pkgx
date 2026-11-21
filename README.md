@@ -48,12 +48,12 @@ Total: **2,983** lines of code across **38** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 7 | 0 | 0 | 1 | 10 |
-| last60d | 2026-09-21 | 1 | 8 | 0 | 1 | 2 | 11 |
-| 90d | 2026-08-22 | 1 | 9 | 0 | 1 | 2 | 12 |
-| last180d | 2026-05-24 | 3 | 18 | 0 | 1 | 3 | 20 |
-| 360d | 2025-11-25 | 9 | 57 | 0 | 2 | 7 | 77 |
-| last720d | 2024-11-30 | 27 | 131 | 0 | 35 | 23 | 317 |
+| 30d | 2026-10-22 | 1 | 7 | 0 | 0 | 1 | 10 |
+| last60d | 2026-09-22 | 1 | 8 | 0 | 1 | 2 | 11 |
+| 90d | 2026-08-23 | 1 | 9 | 0 | 1 | 2 | 12 |
+| last180d | 2026-05-25 | 3 | 18 | 0 | 1 | 3 | 20 |
+| 360d | 2025-11-26 | 9 | 57 | 0 | 2 | 7 | 77 |
+| last720d | 2024-12-01 | 27 | 131 | 0 | 35 | 23 | 317 |
 
 ## Release assets
 
@@ -82,7 +82,7 @@ Total: **2,983** lines of code across **38** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **5** distros on [repology.org](https://repology.org/project/pkgx). **1** are ✅ on the latest upstream release, **2** are ⚠️ on an older version.
+Reported by **5** distros on [repology.org](https://repology.org/project/pkgx). **2** are ✅ on the latest upstream release, **1** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -97,4 +97,4 @@ Install metadata for pkgx lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:29:01Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:13:37Z._
