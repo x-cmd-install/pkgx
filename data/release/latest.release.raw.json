@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 2212840,
       "digest": "sha256:7e58b0a5e0407be33fcc5a04f6c4e5d71c8b6d09f4b85e03387cb5183122a6bf",
-      "download_count": 33,
+      "download_count": 35,
       "created_at": "2026-11-19T23:45:08Z",
       "updated_at": "2026-11-19T23:45:09Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1%2Bdarwin%2Baarch64.tar.xz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:6b6a08fb58ff8daa231505c6753369fa62a233def302c7d8f99aa8c5f789bf09",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-11-19T23:43:46Z",
       "updated_at": "2026-11-19T23:43:47Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1%2Bdarwin%2Bx86-64.tar.xz.asc"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4359125,
       "digest": "sha256:2ed10154f5d1c6c82718a481a7a2df5c14e47bbc58899b258445b41b3c95ecbd",
-      "download_count": 76,
+      "download_count": 95,
       "created_at": "2026-11-19T23:44:45Z",
       "updated_at": "2026-11-19T23:44:46Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1%2Blinux%2Baarch64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 4941867,
       "digest": "sha256:91fe77291b6e990a9b68e08efb03298683ef2c86f937cc4696707d88c6677fb5",
-      "download_count": 19,
+      "download_count": 20,
       "created_at": "2026-11-19T23:45:51Z",
       "updated_at": "2026-11-19T23:45:51Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1%2Blinux%2Bx86-64-musl.tar.gz"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 3655936,
       "digest": "sha256:643695d486476d077088884df819ddda627ae6e33394c28605f0fcb0b43fb7a9",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2026-11-19T23:45:51Z",
       "updated_at": "2026-11-19T23:45:51Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1%2Blinux%2Bx86-64-musl.tar.xz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:075648c21fa7af6f6f24bb5d7efc76f025433457988b4af0521dc6c5e43b9ba8",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-19T23:45:51Z",
       "updated_at": "2026-11-19T23:45:51Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1%2Blinux%2Bx86-64-musl.tar.xz.asc"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 4475937,
       "digest": "sha256:8ef2c4e8fab3b44472c9e2d9c1956430963caa4a7ab7d069a6a2af548d6e060a",
-      "download_count": 22,
+      "download_count": 28,
       "created_at": "2026-11-19T23:44:41Z",
       "updated_at": "2026-11-19T23:44:41Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1%2Blinux%2Bx86-64.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 3305116,
       "digest": "sha256:afa6d73db10c0a383fe4eb238cab3cf8b9434195b8bb782eae1a74496c2405da",
-      "download_count": 129,
+      "download_count": 141,
       "created_at": "2026-11-19T23:44:41Z",
       "updated_at": "2026-11-19T23:44:41Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1%2Blinux%2Bx86-64.tar.xz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 4492678,
       "digest": "sha256:6804ea404ce409e1f087839ea83caabb1405c493c46a43d0faa13b3b31b8eeb9",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-11-19T23:46:49Z",
       "updated_at": "2026-11-19T23:46:49Z",
       "browser_download_url": "https://github.com/pkgxdev/pkgx/releases/download/v2.11.1/pkgx-2.11.1%2Bwindows%2Bx86-64.zip"
